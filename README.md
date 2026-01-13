@@ -1,0 +1,14 @@
+# missi_phoneext4_eea-user 13 TKQ1.221114.001 V816.0.13.0.TKCEUXM release-keys
+- manufacturer: xiaomi
+- platform: holi
+- codename: veux
+- flavor: missi_phoneext4_eea-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V816.0.13.0.TKCEUXM
+- tags: release-keys
+- fingerprint: Redmi/veux_jp/veux:13/TKQ1.221114.001/V816.0.13.0.TKCEUXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phoneext4_eea-user-13-TKQ1.221114.001-V816.0.13.0.TKCEUXM-release-keys
+- repo: redmi_veux_dump
